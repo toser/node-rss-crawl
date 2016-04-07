@@ -1,6 +1,6 @@
 {
   "name": "node-rss-crawl",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "rss crawler for nodejs",
   "main": "lib/node-rss-crawl.js",
   "scripts": {
