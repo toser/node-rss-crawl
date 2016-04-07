@@ -3,7 +3,7 @@
 import feedparser from 'feedparser-promised';
 import moment from 'moment';
 import striptags from 'striptags';
-import {getConfig, hasAllPropsSet, getRandomEntry, shortenUrl, getFirstByName} from 'helptos';
+import {getConfig, hasAllPropsSet, getRandomEntry, shortenUrl, getFirstByName, getNameList} from 'helptos';
 
 /**
  * get rss url form array of categories by category name
