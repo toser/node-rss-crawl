@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "feedparser-promised": "^1.0.1",
-    "helptos": "^1.0.2",
+    "helptos": "^1.0.5",
     "moment": "^2.12.0",
     "striptags": "^2.1.1"
   }

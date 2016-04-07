@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "ironshark",
+      "url": "http://www.ironshark.de/feed"
+    },
+    {
+      "name": "alles",
+      "url": "http://www.bild.de/rssfeeds/rss3-20745882,feed=alles.bild.html"
+    },
+    {
+      "name": "home",
+      "url": "http://www.bild.de/rss-feeds/rss-16725492,feed=home.bild.html"
+    },
+    {
+      "name": "news",
+      "url": "http://www.bild.de/rss-feeds/rss-16725492,feed=news.bild.html"
+    },
+    {
+      "name": "politik",
+      "url": "http://www.bild.de/rss-feeds/rss-16725492,feed=news.bild.html"
+    },
+    {
+      "name": "unterhaltung",
+      "url": "http://www.bild.de/rss-feeds/rss-16725492,feed=unterhaltung.bild.html"
+    },
+    {
+      "name": "sport",
+      "url": "http://www.bild.de/rss-feeds/rss-16725492,feed=sport.bild.html"
+    },
+    {
+      "name": "lifestyle",
+      "url": "http://www.bild.de/rss-feeds/rss-16725492,feed=lifestyle.bild.html"
+    },
+    {
+      "name": "ratgeber",
+      "url": "http://www.bild.de/rss-feeds/rss-16725492,feed=ratgeber.bild.html"
+    },
+    {
+      "name": "auto",
+      "url": "http://www.bild.de/rss-feeds/rss-16725492,feed=auto.bild.html"
+    },
+    {
+      "name": "digital",
+      "url": "http://www.bild.de/rss-feeds/rss-16725492,feed=digital.bild.html"
+    },
+    {
+      "name": "spiele",
+      "url": "http://www.bild.de/rss-feeds/rss-16725492,feed=spiele.bild.html"
+    },
+    {
+      "name": "leserreporter",
+      "url": "http://www.bild.de/rss-feeds/rss-16725492,feed=leserreporter.bild.html"
+    }
+  ]
+}

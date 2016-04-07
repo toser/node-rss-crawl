@@ -25,7 +25,7 @@ let getRssUrl = (categories, category) => {
 };
 
 const configFile = '../config/news.json';
-let categories = getConfig(configFile).categories.filter(category => hasAllPropsSet(['name', 'url'])(category));
+let categories = getConfig(configFile, __dirname).categories.filter(category => hasAllPropsSet(['name', 'url'])(category));
 moment.locale('de');
 
 /**
